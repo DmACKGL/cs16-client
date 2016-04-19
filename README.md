@@ -1,4 +1,5 @@
-![CS1.6 Logo](http://dotageeks.com/wp-content/uploads/2015/10/Counterstrike-Logo-08.jpg) # CS1.6-Client
+![CS1.6 Logo](https://media.toggle.com/000/970/956/a26_6c4_60_60-counter-strike.jpg) 
+# CS1.6-Client
 
 Counter-Strike 1.6 client.dll rewrite project.
 
