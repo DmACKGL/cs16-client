@@ -8,6 +8,8 @@ Counter-Strike 1.6 client.dll rewrite project.
 * Runs on your phone.
 * Helpful for modders.
 
+
+
 ##### ¿Any Problem, question or suggestion?
  Write your issues [here](https://github.com/SDLash3D/cs16-client/issues)
 
