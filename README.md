@@ -10,3 +10,5 @@ Counter-Strike 1.6 client.dll rewrite project.
 
 ##### ¿Any Problem, question or suggestion?
  Write your issues [here](https://github.com/SDLash3D/cs16-client/issues)
+
+###### Build Status: ¡Beta!
